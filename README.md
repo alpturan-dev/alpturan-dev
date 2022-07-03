@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alpturan-dev
-- 👀 I’m interested in Web Programming and Machine Learning.
-- 🌱 I’m currently learning python for Machine Learning.
+- 👀 I’m interested in Web Programming.
+- 🌱 I’m currently learning ReactJS.
 - 📫 How to reach me >> twitter.com/alpturandev
 
 <!---
